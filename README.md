@@ -19,4 +19,4 @@
 
 ![render](https://github.com/RubianGamer/Melty/blob/main/beta%20releases/beta%201/renders/render.PNG?raw=true)
 
-![render](https://github.com/RubianGamer/Melty/blob/main/beta%20releases/beta%201/renders/melty_electronics.PNG?raw=true)
+![render](/beta releases/beta_1/renders/melty_electronics.png?raw=true)
