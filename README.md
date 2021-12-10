@@ -22,6 +22,12 @@ https://discord.gg/2XBTuWrQu5
 
 # Renders
 
-![render](https://github.com/RubianGamer/Melty/blob/main/beta%20releases/beta%201/renders/render.PNG?raw=true)
+![render_front](https://github.com/RubianGamer/Melty/blob/main/beta%20releases/beta%201/renders/render.PNG?raw=true)
 
-![Test](/beta%20releases/beta%201/renders/melty_electronics.png)
+![render_rear](/beta%20releases/beta%201/renders/melty_electronics.png)
+
+![imagine_front](/beta%20releases/beta%201/renders/melty_front.png)
+
+![image_side](/beta%20releases/beta%201/renders/melty_side.png)
+
+![image_top](/beta%20releases/beta%201/renders/melty_top.png)
