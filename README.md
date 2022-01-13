@@ -15,6 +15,7 @@
 - phaetus rapido and dragon supported direct drive toolhead using a bondtech LGX
 - easily accesable rear mounted electronics
 - internal spool holder to reduce printer footprint and keep filament dry on long prints
+- filtered air circulator to reduce smell and toxic fumes
 
 # Discord
 
@@ -23,12 +24,8 @@ https://discord.gg/2XBTuWrQu5
 
 # Renders
 
-![render_front](https://github.com/RubianGamer/Melty/blob/main/beta%20releases/beta%201/renders/render.PNG?raw=true)
+![render_front](/beta%20releases/beta%202/renders/meltyB2.png)
 
-![render_rear](/beta%20releases/beta%201/renders/melty_electronics.png)
+![render_rear](/beta%20releases/beta%202/renders/melty_electronics.png)
 
-![imagine_front](/beta%20releases/beta%201/renders/melty_front.png)
-
-![image_side](/beta%20releases/beta%201/renders/melty_side.png)
-
-![image_top](/beta%20releases/beta%201/renders/melty_top.png)
+![render_360](/beta%20releases/beta%202/renders/melty_spin.mp4)
