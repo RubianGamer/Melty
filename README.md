@@ -24,8 +24,6 @@ https://discord.gg/2XBTuWrQu5
 
 # Renders
 
-![render_front](/beta%20releases/beta%202/renders/meltyB2.png)
+![render_front](/beta%20releases/beta%202/renders/meltyB2.png?raw=true)
 
-![render_rear](/beta%20releases/beta%202/renders/melty_electronics.png)
-
-![render_360](/beta%20releases/beta%202/renders/melty_spin.mp4)
+![render_rear](/beta%20releases/beta%202/renders/melty-electronics.png?raw=true)
