@@ -1,0 +1,1 @@
+these graphs are from a 250 build with a LGX lite, leadscrew driven Z and a aluminum gantry
