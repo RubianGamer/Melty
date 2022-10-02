@@ -11,9 +11,9 @@
 - 24v printer and 48v XY motion using 5160HV drives and BTT octopus pro
 - mains powered bed
 - rigid 3030 and 3060 frame extrusions
-- shortest possible 12mm 2GT belts for motion
+- shortest possible 12mm 2MGT belts for motion
 - MGN12H rails for stationary rails, MGN9C for moving rails backed by MakerBeamXL or a carbon fiber tube
-- phaetus rapido (UHF) and dragon UHF supported direct drive toolhead using a bondtech LGX
+- phaetus rapido (UHF) and dragon UHF supported direct drive toolhead using a bondtech LGX (lite)
 - easily accesable rear mounted electronics
 - internal spool holder to reduce printer footprint and keep filament dry on long prints (external avalible for larger format spools)
 - filtered air circulator to reduce smell and toxic fumes
